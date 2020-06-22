@@ -2,11 +2,11 @@
 
 ## Background
 
-[...]
+Modern organizations use open source software to save money and time. Instead of developing proprietary software, companies can use free software thanks to open source. Today, the largest host of open source is Github with more than 46 million [users](https://github.com/search?q=type:user&type=Users) and more than 47 million [public repositories](https://github.com/search?q=is:public).
 
 To read more about Daploy, visit: 
 
-[...]
+http://slavakurilyak.com/daploy-modern-managed-open-source/
 
 ## Contribute
 
