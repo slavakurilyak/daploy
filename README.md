@@ -6,7 +6,7 @@ Modern organizations use open source software to save money and time. Instead of
 
 To read more about Daploy, visit: 
 
-http://slavakurilyak.com/daploy-modern-managed-open-source/
+https://slavakurilyak.com/daploy-modern-managed-open-source
 
 ## Contribute
 
